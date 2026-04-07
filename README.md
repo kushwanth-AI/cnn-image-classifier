@@ -23,6 +23,6 @@ This project builds a Convolutional Neural Network using PyTorch to classify han
 - Loss Function (CrossEntropy)
 - Optimizer (Adam)
 
-## 📸 Sample Output
+## 📸 Output
 <img width="1346" height="568" alt="output" src="https://github.com/user-attachments/assets/f2f16a61-29e3-4786-8a16-4a2728743e3c" />
 
