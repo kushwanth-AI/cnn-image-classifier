@@ -10,3 +10,18 @@ This project builds a Convolutional Neural Network using PyTorch to classify han
 ## Tech Stack
 - PyTorch
 - Google Colab
+
+## 📊 Results
+- Training Accuracy: ~98%
+- Test Accuracy: ~97%
+
+## 🧠 Concepts Used
+- Convolution
+- Pooling
+- Flatten
+- Fully Connected Layers
+- Loss Function (CrossEntropy)
+- Optimizer (Adam)
+
+## 📸 Sample Output
+(Add screenshot here later)
